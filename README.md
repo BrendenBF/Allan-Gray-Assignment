@@ -1,4 +1,4 @@
-# Allen Gray Assignment
+# Allan Gray Assignment
 
 The application was identified to be divided into 3 distinct aspects of processing, with the final aspect of the application dependant on the outcome of the intial 2 steps in the execution of the application. These steps were as follows:
         
