@@ -1,0 +1,9 @@
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedUnitTest\bin\Debug\SocialFeedUnitTest.dll
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedUnitTest\bin\Debug\SocialFeedUnitTest.pdb
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedUnitTest\obj\Debug\SocialFeedUnitTest.dll
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedUnitTest\obj\Debug\SocialFeedUnitTest.pdb
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedUnitTest\bin\Debug\SocialFeedUnitTest.dll.config
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedUnitTest\bin\Debug\SocialFeedTest.exe
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedUnitTest\bin\Debug\SocialFeedTest.pdb
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedUnitTest\obj\Debug\SocialFeedUnitTest.csprojResolveAssemblyReference.cache

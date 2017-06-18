@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialFeedTest", "SocialFeedTest\SocialFeedTest.csproj", "{5679E8DD-DF34-4D2C-8F9E-EF4F69775C9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocialFeedUnitTest", "SocialFeedUnitTest\SocialFeedUnitTest.csproj", "{AA57ED7A-AFA0-4118-9347-8F295607101F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5679E8DD-DF34-4D2C-8F9E-EF4F69775C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5679E8DD-DF34-4D2C-8F9E-EF4F69775C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5679E8DD-DF34-4D2C-8F9E-EF4F69775C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5679E8DD-DF34-4D2C-8F9E-EF4F69775C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA57ED7A-AFA0-4118-9347-8F295607101F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA57ED7A-AFA0-4118-9347-8F295607101F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA57ED7A-AFA0-4118-9347-8F295607101F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA57ED7A-AFA0-4118-9347-8F295607101F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

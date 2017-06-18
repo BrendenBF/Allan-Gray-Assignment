@@ -1,0 +1,6 @@
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedTest\bin\Debug\SocialFeedTest.exe.config
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedTest\bin\Debug\SocialFeedTest.exe
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedTest\bin\Debug\SocialFeedTest.pdb
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedTest\obj\Debug\SocialFeedTest.exe
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedTest\obj\Debug\SocialFeedTest.pdb
+C:\Users\Brenden\Desktop\SocialFeedTest\SocialFeedTest\obj\Debug\SocialFeedTest.csprojResolveAssemblyReference.cache
